@@ -42,7 +42,7 @@
 
 - git:
     local-name: ../utils/task-generator
-    uri: https://github.com/Arena-Rosnav/task-generator.git
+    uri: https://github.com/flameryx/task-generator.git
     version: v1.1.0
 
 ### PLANNERS
