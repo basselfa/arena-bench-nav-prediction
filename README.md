@@ -42,8 +42,8 @@ Finished!
 
 Everything
 
-
-Docs:
-
-
+Project Documents:
 https://drive.google.com/drive/folders/1q8LasUSgNhUToUv81zGGmYFGJ5b3cHQB?usp=sharing
+
+Project Protocol:
+https://docs.google.com/spreadsheets/d/1omRDyfzvQiBUo7YHfzZQpq2DSHT6rZO12xTt2y4HpB0/edit#gid=0
