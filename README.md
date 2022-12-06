@@ -42,8 +42,9 @@ Finished!
 
 Everything
 
-Project Documents:
-https://drive.google.com/drive/folders/1q8LasUSgNhUToUv81zGGmYFGJ5b3cHQB?usp=sharing
+Documents:
+- https://drive.google.com/drive/folders/1q8LasUSgNhUToUv81zGGmYFGJ5b3cHQB?usp=sharing
 
-Project Protocol:
-https://docs.google.com/spreadsheets/d/1omRDyfzvQiBUo7YHfzZQpq2DSHT6rZO12xTt2y4HpB0/edit#gid=0
+Important Links:
+- https://arena-benchmark.readthedocs.io/en/latest/
+- https://github.com/Arena-Rosnav
